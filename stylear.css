@@ -1,0 +1,7 @@
+body{
+    direction: rtl;
+}
+.footer-col h4::before{
+    content: '';
+    right: 0;
+}
